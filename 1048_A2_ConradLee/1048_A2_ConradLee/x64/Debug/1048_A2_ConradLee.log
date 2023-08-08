@@ -1,0 +1,10 @@
+﻿  Dragons.cpp
+  Item.cpp
+  Location.cpp
+  Main.cpp
+  Monster.cpp
+  Player.cpp
+  Generating Code...
+G:\My Drive\##C2000\2022_S2\FIT1048_Fundamentals_Of_C++\Sources\repo\1048_A2_ConradLee\1048_A2_ConradLee\Location.cpp(103): warning C4715: 'Location::getPlayerExist': not all control paths return a value
+G:\My Drive\##C2000\2022_S2\FIT1048_Fundamentals_Of_C++\Sources\repo\1048_A2_ConradLee\1048_A2_ConradLee\Location.cpp(188): warning C4715: 'Location::exitLookUp': not all control paths return a value
+  1048_A2_ConradLee.vcxproj -> G:\My Drive\##C2000\2022_S2\FIT1048_Fundamentals_Of_C++\Sources\repo\1048_A2_ConradLee\x64\Debug\1048_A2_ConradLee.exe
