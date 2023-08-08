@@ -1,0 +1,25 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~The Treasure Caverns of Doom~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You are a brave adventurer, the King assigned you to get 5 artefacts to craft the cure for the princess. 
+You have to travel through the cave system and fight for it. 
+You have limited time to move around the caves, when to take profit and rest for the next adventure, it’s your choice. Make your decision wisely.
+
+You could do the following actions in the game:
+
+e[X]amine         : If no monsters are in the cavern, you may search for treasure using [X]. 
+                    There are chances of finding a few gold coins or a small gem, as well as finding some other item (not an artefact). 
+                    This will consume oil from your lantern, but it may prove to be time well spent, or not.
+[A]ttack          : If a monster is in the cavern you can choose to attack it using [A]. 
+                    If you decide to attack, the combat sequence will activate, with you winning or losing at the end of the battle sequence.
+[F]lee            : If you choose not the engage in combat, you can flee using [F]. 
+                    However, you will automatically take the minimum damage that monster would inflict in combat.
+[N], [S], [E], [W]: If there is nothing in the cavern, perhaps after you have searched it, you can use one of the compass directions listed. 
+                    You will not be able to go in a direction that is not listed. Moving also reduces your lantern oil by 2-5 points.
+[P]rovisions      : Allows you to eat one of your provisions which restores some of your health. 
+                    If you have also collected potions you can drink one to gain its benefits or other effects!
+[T]ake and [D]rop : Add and remove things from your inventory. 
+[M]ap             : Open your map.
+[H]elp            : Show this how to play dialog.
+[Q]uit            : Exit the game.
